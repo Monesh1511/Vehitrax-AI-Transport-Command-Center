@@ -1,0 +1,10 @@
+field,description
+Bus_Number,Unique identifier for bus route (e.g. MTC-42B)
+Number_Plate,Vehicle registration plate - primary detection target
+Driver_Name,Full name of assigned driver
+Mobile_Number,Driver's contact number (10-digit)
+License_Number,Driver's driving license ID
+Years_Experience,Number of years driver has been operating
+Shift,Duty shift: Morning / Afternoon / Night
+Bus_Type,"Category: AC, Non-AC, Express, Ordinary, Deluxe"
+Label (ML Target),Valid = normal record | Suspicious = flag for review

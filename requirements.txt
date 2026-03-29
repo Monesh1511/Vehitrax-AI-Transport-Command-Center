@@ -1,0 +1,13 @@
+fastapi[all]
+SQLAlchemy
+pydantic
+pydantic-settings
+psycopg2-binary
+alembic
+redis
+ultralytics
+opencv-python
+easyocr
+python-dotenv
+pillow
+numpy
